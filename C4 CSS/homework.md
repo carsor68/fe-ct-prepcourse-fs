@@ -14,7 +14,7 @@ En esta ocasión, daremos continuidad a nuestra actividad anterior añadiendo es
 
 ### **📍EJERCICIO 01**
 
-Crea en la misma carpeta donde tienes tu archivo HTML, un archivo al que podrás llamar **styles.css**.
+Crea en la misma carpeta donde tienes tu archivo HTML, un archivo al que podrás llamar ** styles.css. **. 
 
 ---
 
