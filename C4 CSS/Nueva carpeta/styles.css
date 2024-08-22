@@ -21,7 +21,8 @@ body {
     width: fit-content;/*ajusto el ancho  al ancho del contenido*/
     padding: 1em 1em 2em 1em;    /*escoge despegar arriba derecha abajo izquierda
                                   si no quieres darle espacio en un lado coloca 0px*/
-    border-radius: 10%; /*el borde del cuadro rojo quedó redondeado en las esquinas*/
+    border-radius: 10%; /*el borde de
+    l cuadro rojo quedó redondeado en las esquinas*/
     transition: 1s; /*el tiempo que demorará en cambiar el color donde coloco el mouse*/
     display: flex; 
     flex-direction: column; /*sdisplay: flex y flex direction van juntos para centrar el titulo o palabras ubicada encima de la imagen*/
@@ -51,6 +52,16 @@ body {
       margin: auto;
       padding: 3em;
   } 
+  
+  titulares {
+    padding: 5px;
+  }
+  
+  titulares:hover {
+    background: red;
+    color: white;
+    text-decoration: none;
+  }
 
   #cards-container{
     background-color: rgb(156, 33, 33);
@@ -70,6 +81,5 @@ body {
     /*space around todos los elemente alrededor tendran la misma distacia*/
     /*space-between tendran el mismo espacio entre un elemento y otro*/
     /*space-evenly todos los elementos tienen la misma distancia respecto del borde y el elemento que le sigue*/
-    
-                      }
+    }
   
