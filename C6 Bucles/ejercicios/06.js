@@ -3,8 +3,8 @@ function tieneTresDigitos(num) {
   // Caso contrario, retorna false.
   // Tu código:
 
- //if(num > 99 && num < 1000) return true;
- //else return false;
+ if(num > 99 && num < 1000) return true;
+ else return false;
 
 
 // otra forma de hacerlo, convirtiendo el numero en string
